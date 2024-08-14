@@ -3,6 +3,7 @@
 <a href="https://github.com/nemosofts/PageIndicatorView">
     <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=red">
 </a>
+[![CodeFactor](https://www.codefactor.io/repository/github/nemosofts/pageindicatorview/badge)](https://www.codefactor.io/repository/github/nemosofts/pageindicatorview)
 
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
